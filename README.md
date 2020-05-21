@@ -1,8 +1,8 @@
 # Deno 101 🦕
 
-Deno REST API.
+Deno REST API & Playground.
 
-## Installation
+## Mac OS Installation
 
 `brew install deno`
 
