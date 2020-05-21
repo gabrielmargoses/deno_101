@@ -1,4 +1,4 @@
-# Deno 101
+# Deno 101 🦕
 
 Deno REST API.
 
